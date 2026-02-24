@@ -14,7 +14,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: flex;
-    gap: 1100px;
+    gap: 100px;
     background: #0e4d25;
     padding: 15px 30px;
     color: white;
@@ -193,4 +193,5 @@ body {
   
 
  
+
   
